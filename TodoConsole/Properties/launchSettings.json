@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TodoConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "-f Create -t \"sample todo item\""
+    }
+  }
+}
